@@ -1,0 +1,6 @@
+api key=AIzaSyDfsiCaI4pqv-i5-nNrJ24B9bp0_omENzw
+channel id=UCNJcSUSzUeFm8W9P7UUlSeQ
+upload id=UUNJcSUSzUeFm8W9P7UUlSeQ
+url= https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UUNJcSUSzUeFm8W9P7UUlSeQ&key=AIzaSyDfsiCaI4pqv-i5-nNrJ24B9bp0_omENzw
+
+
